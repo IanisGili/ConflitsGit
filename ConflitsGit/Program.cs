@@ -5,5 +5,9 @@ Console.WriteLine("Bonjour thomas ");
 
 Console.WriteLine("Hola amigo de la barbacoa si si  mario spaghetti");
 
+
 Console.WriteLine("Bilel m'a touché sensuellement");
 Console.WriteLine("Bonjour");
+
+Console.WriteLine("Bilel m'a touché");
+Console.WriteLine("enchantié modif 2");
